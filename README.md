@@ -58,8 +58,3 @@ LSTM is a type of recurrent neural network (RNN) architecture that can effective
 4. View the predicted stock prices, RMSE, and plot of the results.
 5. The predicted price for the next day will also be displayed.
 
-## Disclaimer
-
-- Stock price prediction is a complex task influenced by various factors, and the LSTM model's accuracy may vary. The predictions should not be considered as financial advice.
-- Use the predictions at your own risk. The author and contributors of this script are not responsible for any financial losses incurred based on the predictions made by the model.
-
